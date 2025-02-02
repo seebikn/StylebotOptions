@@ -21,7 +21,13 @@ URL : `google.com`
 URL : `mail.google.com`
 
 ```
+div.yJ {
+  margin-bottom:auto;
+}
+div.aAw {
+  margin-bottom:auto;
+}
 div.TN {
-  height:16px;
+  height:auto;
 }
 ```
