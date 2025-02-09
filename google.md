@@ -6,7 +6,7 @@
 
 URL : `google.com`
 
-```
+```css
 .M8OgIe {
     display: none !important;
 }
@@ -20,7 +20,7 @@ URL : `google.com`
 
 URL : `mail.google.com`
 
-```
+```css
 div.yJ {
   margin-bottom:auto;
 }
@@ -31,3 +31,20 @@ div.TN {
   height:auto;
 }
 ```
+
+## SpreadSheet
+
+メモの見た目を変更。
+
+URL : `docs.google.com/spreadsheets/d/*`
+
+```css
+textarea.annotation-editable {
+  background-color: #e0ffe0;
+  width: 500px;
+  height: 300px;
+  color: black;
+  font-size: 14px;
+}
+```
+
